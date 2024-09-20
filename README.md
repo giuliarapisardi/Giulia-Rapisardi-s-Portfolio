@@ -1,5 +1,7 @@
 # Giulia Rapisardis Portfolio
 
+## About Me!
+
 I'm a data analyst based out of New York who is constantly looking for new and innovative ways to analyze data.
 
 With a strong foundation in statistical analysis, data visualization, and business intelligence tools, I specialize in helping businesses make data-driven decisions. My areas of expertise include:
